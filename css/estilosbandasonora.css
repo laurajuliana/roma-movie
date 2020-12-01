@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;}
+body {
+font-family:"Times New Roman", Sans-serif, Candara, ArialCandara, Calibri, Segoe, Segoe UI, Optima, Arial;
+background-color: #000000;}
+#contenedor {
+	background: url(../imagenes/rayas_03.jpg) no-repeat center top;
+	padding: 17px 0px;
+	margin-top: 30px;
+	padding-left: 104px;
+margin-bottom: 0px;
+}
+#contenedor li{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	padding-left: 30px;
+}
+#menu a{
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: normal;
+	padding: 5px 48px;
+	color: #828282;
+	font-style: "Times New Roman";
+}
+#lista img{
+	padding-left: 30px;
+	padding-top: 103px;
+}
+#marco img{
+padding-left: 110px;
+position: relative;
+bottom: 800px;
+}
+
+#canciones{
+color: #838383;
+margin-right: 790px;
+position: relative;
+bottom: 2765px;
+font-size: 25px;
+}
+
+#artistas{
+color: #838383;
+margin-right: 254px;
+position: relative;
+bottom: 1952px;
+font-size: 25px;
+}	
+
+
+#titulo{
+color: #937a28;
+font-weight: bold;
+padding-left: 182px;
+bottom: 3617px;
+position: relative;
+font-size: 28px;}
+
+#artistas p{
+color: #937a28;
+font-weight: bold;
+padding-left: 444px;
+bottom: 1696px;
+position: relative;
+font-size: 28px;
+}
+
+#caloncho{
+padding-left: 862px;
+bottom: 1051px;
+position: relative;
+}
+
+#caloncho p{
+color: #494949;
+padding-left: 40px;
+}
+
+#chita{
+padding-left: 862px;
+bottom: 951px;
+position: relative;
+}
+
+#chita p{
+	color: #494949;
+padding-left: 55px;
+}
+
+#romaalbum
+{
+padding-left: 862px;
+bottom: 882px;
+position: relative;
+margin-bottom: 0px;
+}	
+
+#romaalbum p{
+	color: #494949;
+padding-left: 75px;
+
+
+}
+#creditosdelmar p{
+bottom: 2800px;
+position: relative;
+color: #494949;
+padding-left: 180px;
+}
+
+#espacio{
+	display: none;
+}
+
+#footer{
+	background: #4d4c4d;
+	text-align: center;
+	color: #000000;
+	font-size: 18px;
+	padding-left: 149px;
+
+}
+#footer p{
+color: #937a28;
+}
+#facebook img{
+float: right;
+padding-top:20px;
+margin-right: 130px;
+
+
+}
+#instagram img{
+	float: right;
+	padding-top: 20px;
+margin-right: 30px;
+margin-left: 1px;
+padding-left: 1px;
+}
+
+
+
+
+
+
+
+

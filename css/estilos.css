@@ -1,0 +1,133 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;}
+body {
+font-family:"Times New Roman", Sans-serif, Candara, ArialCandara, Calibri, Segoe, Segoe UI, Optima, Arial;
+background-color: #000000;}
+#contenedor {
+	background: url(../imagenes/rayas_03.jpg) no-repeat center top;
+	padding: 17px 0px;
+	margin-top: 30px;
+	padding-left: 104px;
+margin-bottom: 0px;
+}
+#contenedor li{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	padding-left: 30px;
+}
+#menu a{
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: normal;
+	padding: 5px 48px;
+	color: #828282;
+	font-style: "Times New Roman";
+}
+
+#primera img{
+	
+	float:none;
+	margin-left:39px;
+	margin-top:28px;
+}
+
+
+#primercredito {
+	margin-left: 39px;
+	color: #494949;
+	font-style: "Times New Roman";
+	font-size: 10px;
+}
+#primercredito a{
+	margin-left: 0px;
+	color: #494949;
+	font-style: "Times New Roman";
+	font-size: 10px;
+	text-decoration: none;
+	padding: 0px;
+}
+#roma img {
+float: none;
+position: absolute;
+text-align: center;
+top: 505px;
+left: 393px;
+padding-bottom: 10px;}
+
+
+#sinopsis h2{
+font-style:"Lucida Sans Unicode";
+color: #6e1f3b;
+font-size: 24px;
+padding: 102px 300px;
+font-weight: normal;
+padding-bottom: 21px;
+}
+
+#sinopsis{
+font-style:"Candara";
+color: #5f5f5f;
+font-size: 20px;
+padding: 0px 500px 60px 0px;
+font-weight: normal;
+text-align: center;
+padding-top: 0px 0px;
+}
+
+#cuaron img{
+	float: left;
+	padding-left: 48px;
+margin-right: 90px;}
+
+#cuaron h3{
+color: #937a28;
+font-size: 14px;
+font-weight: normal;
+font-style: "Candara";
+}
+
+#cuaron p{
+	color: #5f5f5f;
+	font-size: 14px;
+	font-weight: normal;
+	font-style: "Candara"
+}
+#imagengrandota img{
+	float: right;
+	margin-right: 24px;
+	margin-top: 140px;
+padding-bottom: 0px;}
+
+#segundocredito{
+	text-align: right;
+	top: 10%;
+	color: #494949;
+	margin-right: 27px;}
+#footer{
+	background: #4d4c4d;
+	text-align: center;
+	color: #000000;
+	font-size: 18px;
+	padding-left: 149px;
+
+}
+#footer p{
+color: #937a28;
+}
+#facebook img{
+float: right;
+padding-top:20px;
+margin-right: 130px;
+
+
+}
+#instagram img{
+	float: right;
+	padding-top: 20px;
+margin-right: 30px;
+margin-left: 1px;
+padding-left: 1px;
+}

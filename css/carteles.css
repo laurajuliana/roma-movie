@@ -1,0 +1,216 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;}
+body {
+font-family:"Times New Roman", Sans-serif, Candara, ArialCandara, Calibri, Segoe, Segoe UI, Optima, Arial;
+background-color: #000000;}
+#contenedor {
+	background: url(../imagenes/rayas_03.jpg) no-repeat center top;
+	padding: 17px 0px;
+	margin-top: 30px;
+	padding-left: 104px;
+margin-bottom: 0px;
+}
+#contenedor li{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	padding-left: 30px;
+}
+#menu a{
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: normal;
+	padding: 5px 48px;
+	color: #828282;
+	font-style: "Times New Roman";
+}
+
+#romanueve img{
+padding: 1300px 0px 0px 40px;
+position: absolute;
+}
+
+#romanueve p{
+text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 1580px 0px 0px 49px	
+}
+
+#romadiez img{
+padding: 1400px 0px 0px 348px;
+
+position: absolute;
+}
+
+#romadiez p{
+	text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 1550px 0px 0px 439px
+}
+
+#romaonce img{
+	padding: 1300px 0px 10px 654px;
+position: absolute;
+
+}
+
+#romaonce p{
+	text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 1580px 0px 0px 668px
+}
+
+#romadoce img{
+padding: 1100px 0px 0px 964px; 
+
+position:absolute;
+}
+
+#romadoce p{
+	text-align: center;
+	color: #858585;
+	font-size: 14px;
+	position: absolute;
+	padding: 1490px 0px 0px 967px
+}
+
+#romaseis img{
+	padding: 950px 0px 0px 40px;
+	position: absolute;
+	}
+ #romaseis p{
+ 	text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 1240px 0px 0px 49px
+ }
+#romasiete img{
+	padding: 950px 0px 0px 348px;
+position: absolute;
+}
+
+#romasiete p{
+text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 1350px 0px 0px 359px
+}
+
+#romaocho img{
+	padding: 950px 0px 0px 654px;
+	position: absolute;
+}
+#romaocho p{
+	text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 1240px 0px 0px 668px
+}
+
+#romados img{
+position: absolute;
+padding: 600px 0px 0px 40px;
+}
+
+#romados p { 
+	text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 890px 0px 0px 49px
+}
+
+#romatres img{
+	position: absolute;
+	padding: 600px 0px 0px 348px;
+}
+
+#romatres p{
+	text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 890px 0px 0px 359px
+}
+
+#romacuatro img{
+	position: absolute;
+	padding: 600px 0px 0px 654px;
+}
+
+#romacuatro p{
+	text-align: center;
+	color: #858585;
+	font-size: 9px;
+	position: absolute;
+	padding: 890px 0px 0px 668px
+}
+
+#romacinco img{
+	position: absolute;
+	padding: 600px 0px 0px 964px; 
+}
+
+#romacinco p{
+	text-align: center;
+	color: #858585;
+	font-size: 16px;
+	position: absolute;
+	padding: 999px 0px 0px 990px
+}
+
+#romagrande img{
+	position: absolute;
+	padding: 50px 0px 0px 40px;
+}
+
+#romagrande p{
+	color: #858585;
+	position: absolute;
+	padding: 550px 0px 0px 540px;
+
+}
+
+#footer{
+	top:1670px;
+	background: #4d4c4d;
+	text-align: center;
+	color: #000000;
+	font-size: 18px;
+	padding-left: 149px;
+	position: relative;
+
+}
+#footer p{
+color: #937a28;
+
+}
+#facebook img{
+float: right;
+padding-top:20px;
+margin-right: 130px;
+
+
+
+}
+#instagram img{
+	float: right;
+	padding-top: 20px;
+margin-right: 30px;
+margin-left: 1px;
+padding-left: 1px;
+
+}
+
+

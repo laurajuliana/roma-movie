@@ -1,0 +1,291 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;}
+body {
+font-family:"Times New Roman", Sans-serif, Candara, ArialCandara, Calibri, Segoe, Segoe UI, Optima, Arial;
+background-color: #000000;}
+#contenedor {
+	background: url(../imagenes/rayas_03.jpg) no-repeat center top;
+	padding: 17px 0px;
+	margin-top: 30px;
+	padding-left: 104px;
+margin-bottom: 0px;
+}
+#contenedor li{
+	margin: 0;
+	padding: 0;
+	position: relative;
+	padding-left: 30px;
+}
+#menu a{
+	text-decoration: none;
+	font-size: 30px;
+	font-weight: normal;
+	padding: 5px 48px;
+	color: #828282;
+	font-style: "Times New Roman";
+}
+
+#marinadetavira p{
+	text-align: center;
+	padding: 100px 0px 0px 80px;
+	color: #937a28;
+	font-size: 30px;
+	position: absolute;
+}
+
+#cirfermin img{
+	padding: 350px 0px 0px 80px;
+	position: absolute;
+}
+
+#fermin p{
+	color: #545454;
+	font-size: 30px;
+	padding: 430px 0px 0px 140px;
+	position: absolute;
+}
+
+#yalitzaaparicio p{
+	text-align: center;
+	padding: 720px 0px 0px 95px;
+	color: #937a28;
+	font-size: 30px;
+	position: absolute;
+}
+
+#ciradela img{
+	padding: 970px 0px 0px 80px;
+	position: absolute;
+}
+
+#adela p{
+	color: #545454;
+	font-size: 30px;
+	padding: 1060px 0px 0px 144px;
+	position: absolute;
+}
+
+#marina img{
+	padding:40px 0px 0px 260px;
+	position: absolute;
+}
+
+#marina p{
+	color: #767676;
+	text-align: center;
+	padding: 253px 0px 0px 220px;
+	font-size: 10px;
+	position: absolute;
+}
+
+#jorgebn img{
+	padding: 350px 0px 0px 350px;
+	position: absolute;
+}
+
+#jorgebn p{
+	color: #767676;
+	text-align: center;
+	padding: 555px 0px 0px 460px;
+	font-size: 14px;
+	position: absolute;
+}
+
+#yalitza img{
+	padding:660px 0px 0px 260px;
+	position: absolute;
+}
+
+#yalitza p{
+	color: #767676;
+	text-align: center;
+	padding: 880px 0px 0px 200px;
+	font-size: 10px;
+	position: absolute;
+}
+
+#nancybn img{
+	padding: 970px 0px 0px 350;
+	position: absolute;
+}
+
+#nancybn p{
+	color: #767676;
+	text-align: center;
+	padding: 1200px 0px 0px 506px;
+	font-size: 14px;
+	position: absolute;
+}
+
+#marinabn img{
+	padding: 40px 0px 0px 540px;
+	position: absolute;
+}
+
+#marinabn p{
+color: #767676;
+	text-align: center;
+	padding: 253px 0px 0px 736px;
+	font-size: 14px;
+	position: absolute;
+}
+
+#yalitzabn img{
+	padding: 660px 0px 0px 540px;
+	position: absolute;
+}
+
+#yalitzabn p{
+	padding: 880px 0px 0px 736px;
+	position: absolute;
+	color: #767676;
+	text-align: center;
+	font-size: 14px;
+}
+#jorge img{
+	padding: 320px 0px 0px 820px;
+	position: absolute;
+}
+
+#jorge p{
+	color: #767676;
+	text-align: center;
+	padding: 555px 0px 0px 780px;
+	font-size: 14px;
+	position: absolute;
+
+}
+
+#nancy img{
+	padding: 970px 0px 0px 820px;
+	position: absolute;
+}
+
+#nancy p{
+	color: #767676;
+	text-align: center;
+	padding: 1200px 0px 0px 880px;
+	font-size: 14px;
+	position: absolute;
+}
+
+#cirmarina img{
+		padding: 40px 0px 0px 1020px;
+position: absolute;
+}
+
+#srasofia p{
+		color: #545454;
+	font-size: 30px;
+	padding: 120px 0px 0px 1065px;
+	position: absolute;
+}
+
+#jorgeantonioguerrero p{
+text-align: center;
+	padding: 440px 0px 0px 1065px;
+	color: #937a28;
+	font-size: 30px;
+	position: absolute;
+}
+
+#ciryalitza img{
+padding: 660px 0px 0px 1020px;
+position: absolute;
+}
+
+#cleo p{
+	padding: 740px 0px 0px 1095px;
+	position: absolute;
+	color: #545454;
+	font-size: 30px;
+}
+
+#nancygarcia p{
+text-align: center;
+	padding: 1060px 0px 0px 1065px;
+	color: #937a28;
+	font-size: 30px;
+	position: absolute;
+
+}
+
+#marcograf p{
+	text-align: center;
+	padding: 1420px 0px 0px 95px;
+	color: #937a28;
+	font-size: 30px;
+	position: absolute;
+}
+
+#marco img{
+	padding:1320px 0px 0px 260px;
+	position: absolute;
+}
+
+#marco p{
+	color: #767676;
+	text-align: center;
+	padding: 1540px 0px 0px 340px;
+	font-size: 10px;
+	position: absolute;
+}
+
+#marcobn img{
+	padding: 1320px 0px 0px 540px;
+	position: absolute;
+
+}
+
+#marcobn p{
+	padding: 1540px 0px 0px 716px;
+	position: absolute;
+	color: #767676;
+	text-align: center;
+	font-size: 14px;
+}
+
+#cirmarco img{
+	padding: 1320px 0px 0px 1020px;
+position: absolute;
+}
+
+#pepe p{
+padding: 1405px 0px 0px 1095px;
+	position: absolute;
+	color: #545454;
+	font-size: 30px;
+}
+
+#footer{
+	top:1670px;
+	background: #4d4c4d;
+	text-align: center;
+	color: #000000;
+	font-size: 18px;
+	padding-left: 149px;
+	position: relative;
+
+}
+#footer p{
+color: #937a28;
+
+}
+#facebook img{
+float: right;
+padding-top:20px;
+margin-right: 130px;
+
+
+
+}
+#instagram img{
+	float: right;
+	padding-top: 20px;
+margin-right: 30px;
+margin-left: 1px;
+padding-left: 1px;
+
+}
